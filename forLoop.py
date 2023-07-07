@@ -15,3 +15,18 @@ for item in s:
 
 #it is used to many itrable elements...
 
+numbers = [1, 2, 3, 4, 5]
+for num in numbers:
+    print(num)
+
+# Iterating over a string
+
+message = "Hello, World!"
+for char in message:
+    print(char)
+
+# Iterating over a range
+
+for i in range(1, 6):
+    print(i)
+
